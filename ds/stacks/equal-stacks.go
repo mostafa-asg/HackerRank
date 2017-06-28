@@ -1,3 +1,5 @@
+//Equal Stacks
+//Problem : https://www.hackerrank.com/challenges/equal-stacks
 package main
 
 import (
